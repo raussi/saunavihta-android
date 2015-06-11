@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SAUNA-JAAPON</string>
+
+    <string name="title_section1">SAUNAVIHTA</string>
+    <string name="title_section2">LÖYLY</string>
+    <string name="title_section3">VIRVOKE</string>
+
+    <string name="action_settings">Asetukset</string>
+</resources>
